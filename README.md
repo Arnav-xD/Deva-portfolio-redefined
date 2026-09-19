@@ -1,6 +1,6 @@
 # Arnav Deva Portfolio
 
-Complete source for the portfolio created in ChatGPT Sites. This is a static HTML and CSS website, with no framework, npm dependencies, backend, or build step.
+Complete source for the portfolio. This is a static HTML and CSS website, with no framework, npm dependencies, backend, or build step.
 
 ## Files
 
